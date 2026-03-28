@@ -14,4 +14,4 @@ Python engineer focused on clean, modular automation — from CLI tools to data 
 
 ---
 
-*Based in Egypt · Building in public*
+*Based in Egypt · Building in public · [xaltryx.github.io](https://xaltryx.github.io)*
