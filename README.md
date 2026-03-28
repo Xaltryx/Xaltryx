@@ -1,16 +1,17 @@
-## Hi there 👋
+# Youssef Sayed
 
-<!--
-**Xaltryx/Xaltryx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python engineer focused on clean, modular automation — from CLI tools to data pipelines.
 
-Here are some ideas to get you started:
+**Stack:** Python · Pandas · Pytest · SQLite · Git  
+**Interests:** Data engineering · CLI tooling · SaaS backend architecture  
+**Goal:** MIT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Featured
+
+📦 [**csv-cleaner**](https://github.com/Xaltryx/csv-cleaner) — Production-grade CSV cleaning engine. Strips bad values, flags missing fields, removes duplicates, and splits output into clean and flagged files — all in one command.
+
+---
+
+*Based in Egypt · Building in public*
