@@ -1,8 +1,7 @@
 # Youssef Sayed
-
 Python engineer focused on clean, modular automation — from CLI tools to data pipelines.
 
-**Stack:** Python · Pandas · Pytest · SQLite · Git  
+**Stack:** Python · Pandas · Pytest · SQLite · Git · Next.js · Supabase  
 **Interests:** Data engineering · CLI tooling · SaaS backend architecture  
 **Goal:** MIT
 
@@ -11,6 +10,8 @@ Python engineer focused on clean, modular automation — from CLI tools to data 
 ### Featured
 
 📦 [**csv-cleaner**](https://github.com/Xaltryx/csv-cleaner) — Production-grade CSV cleaning engine. Strips bad values, flags missing fields, removes duplicates, and splits output into clean and flagged files — all in one command.
+
+🌐 [**madrasati**](https://github.com/Xaltryx/madrasati) — Full-stack Arabic vocabulary platform. SM2 spaced repetition, quiz system, analytics, XP leaderboard, and admin dashboard — built with AI-assisted development and deployed live on Vercel.
 
 ---
 
