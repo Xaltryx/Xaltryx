@@ -3,7 +3,9 @@
 Python engineer focused on clean, modular automation — from CLI tools to data pipelines.
 
 **Stack:** Python · Pandas · Pytest · SQLite · Git · Supabase
+
 **Interests:** Data engineering · CLI tooling · SaaS backend architecture
+
 **Goal:** MIT
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
